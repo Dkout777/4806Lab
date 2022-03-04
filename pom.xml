@@ -82,7 +82,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>src/main/java/main/ServingWebContentApplication.java</mainClass>
+                            <mainClass>main.ServingWebContentApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
